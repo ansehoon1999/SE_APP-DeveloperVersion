@@ -6,11 +6,13 @@
 
 > 강아지 관리 품앗이 어플 🐶 테스팅
 
+> 강아지 관리 품앗이 어플 🐶 개인 인증 및 매칭 현황을 볼 수 있는 개발자 버전
+
 ## Explanation
 
-많은 사람들이 키우고 있지만 바쁜 현대인들에게 계속해서 반려견을 보살피는 일은 쉬운 일은 아닙니다. 따라서 주변 이웃과 서로 반려 동물을 맡길 수 있는 안드로이드 플랫폼을 만들었습니다.
+많은 사람들이 키우고 있지만 바쁜 현대인들에게 계속해서 반려견을 보살피는 일은 쉬운 일은 아닙니다. 따라서 주변 이웃과 서로 반려 동물을 맡길 수 있는 안드로이드 플랫폼을 만들었습니다. 또 이들의 보안을 위해 개인 인증을 관리자 입장에서 해줄 수 있고 매칭의 현황을 보여주는 개발자 버전의 어플을 제공합니다.
 
-자세한 어플 내용은 아래 링크에서 확인가능합니다. :)
+자세한 댕겨와🐶 어플 내용은 아래 링크에서 확인가능합니다. :)
 https://github.com/ansehoon1999/Android_Pet-Community
 
 ## Function
@@ -53,8 +55,24 @@ https://github.com/ansehoon1999/Android_Pet-Community
 - JaCoCo: Test coverage analysis
 - Documentation: Doxygen
 
-### Testing Result
+### Unit Test Result
 ![image](https://user-images.githubusercontent.com/63048392/125197793-04e6af00-e29a-11eb-975c-c796cdb63ab5.png)
+
+### Code Coverage Result
+
+![image](https://user-images.githubusercontent.com/63048392/125197952-c69dbf80-e29a-11eb-958c-dcc6b6fcc447.png)
+
+### Performance Result
+
+![image](https://user-images.githubusercontent.com/63048392/125197960-cdc4cd80-e29a-11eb-9264-7e4f976795e9.png)
+![image](https://user-images.githubusercontent.com/63048392/125197961-cf8e9100-e29a-11eb-8398-d5b7b0159ff1.png)
+![image](https://user-images.githubusercontent.com/63048392/125197962-d0bfbe00-e29a-11eb-9109-f496f8c1cfff.png)
+![image](https://user-images.githubusercontent.com/63048392/125197968-d3221800-e29a-11eb-854c-f500a056ad1d.png)
+
+### Test Coverage Result
+
+![image](https://user-images.githubusercontent.com/63048392/125197973-dc12e980-e29a-11eb-996d-efaaadf2999b.png)
+
 ### Unit Test Example
 ![image](https://user-images.githubusercontent.com/63048392/125197795-06b07280-e29a-11eb-88fd-603cf7e0361c.png)
 ### 
