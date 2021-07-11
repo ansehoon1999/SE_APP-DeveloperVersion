@@ -2,21 +2,16 @@
 
 <img src="https://img.shields.io/badge/platform-android-brightgreen">
 
-> 가천대학교 소프트웨어학과 3학년 1학기 모바일 프로그래밍 팀프로젝트
+> 가천대학교 소프트웨어학과 3학년 1학기 소프트웨어 공학 프로젝트
 
-> 강아지 관리 품앗이 어플 🐶
-
-![슬라이드4](https://user-images.githubusercontent.com/63048392/125196410-d2868300-e294-11eb-8606-005b4aab9da3.PNG)
-![슬라이드5](https://user-images.githubusercontent.com/63048392/125196422-d7e3cd80-e294-11eb-9f43-107002266662.PNG)
+> 강아지 관리 품앗이 어플 🐶 테스팅
 
 ## Explanation
 
 많은 사람들이 키우고 있지만 바쁜 현대인들에게 계속해서 반려견을 보살피는 일은 쉬운 일은 아닙니다. 따라서 주변 이웃과 서로 반려 동물을 맡길 수 있는 안드로이드 플랫폼을 만들었습니다.
 
-
-![슬라이드7](https://user-images.githubusercontent.com/63048392/125196431-e631e980-e294-11eb-9bee-2fee00a00a12.PNG)
-![슬라이드8](https://user-images.githubusercontent.com/63048392/125196451-fa75e680-e294-11eb-9027-0cf41fd95fda.PNG)
-
+자세한 어플 내용은 아래 링크에서 확인가능합니다. :)
+https://github.com/ansehoon1999/Android_Pet-Community
 
 ## Function
 
@@ -25,15 +20,13 @@
 - 반려 동물 알러지 방지 OCR 기능
 - 산책 및 상대 위치 GPS 기능
 
-![슬라이드10](https://user-images.githubusercontent.com/63048392/125196875-7c1a4400-e296-11eb-856a-c768cd765dda.PNG)
-![슬라이드12](https://user-images.githubusercontent.com/63048392/125196876-7fadcb00-e296-11eb-8ba9-601eb86469f5.PNG)
-![슬라이드14](https://user-images.githubusercontent.com/63048392/125196888-83d9e880-e296-11eb-9826-cce519c679e5.PNG)
-![슬라이드15](https://user-images.githubusercontent.com/63048392/125196891-85a3ac00-e296-11eb-86a7-437a37c7f59d.PNG)
-![슬라이드16](https://user-images.githubusercontent.com/63048392/125196895-876d6f80-e296-11eb-8ac2-3b2bc3c334fb.PNG)
-![슬라이드17](https://user-images.githubusercontent.com/63048392/125196898-889e9c80-e296-11eb-8957-1163e2faef0a.PNG)
-![슬라이드18](https://user-images.githubusercontent.com/63048392/125196901-89cfc980-e296-11eb-98f6-391549ceb9eb.PNG)
-![슬라이드19](https://user-images.githubusercontent.com/63048392/125196902-8b998d00-e296-11eb-9171-8b4be8c3137c.PNG)
-![슬라이드20](https://user-images.githubusercontent.com/63048392/125196905-8dfbe700-e296-11eb-9307-4e4155a019bc.PNG)
+### Calendar Code Sample
+![image](https://user-images.githubusercontent.com/63048392/125197678-aae5e980-e299-11eb-973c-5c2d71fd8bc9.png)
+
+### OCR Code Sample
+
+![image](https://user-images.githubusercontent.com/63048392/125197680-ad484380-e299-11eb-9179-e9409002a612.png)
+
 
 
 
@@ -45,6 +38,32 @@
 - glide: 1.1.0
 - custombutton:google-signin: 1.1.0
 - ocr(tess-two): 9.0.0
+
+![image](https://user-images.githubusercontent.com/63048392/125197712-cb15a880-e299-11eb-8465-0a264dd8095b.png)
+![image](https://user-images.githubusercontent.com/63048392/125197718-ccdf6c00-e299-11eb-8ed5-fd7aa51b896f.png)
+
+![image](https://user-images.githubusercontent.com/63048392/125197722-cfda5c80-e299-11eb-8114-fa2cdf346d6a.png)
+
+
+## Testing
+- Junit: Unit Test
+- Espresso: Test case generation
+- Android profiler: Performance testing
+- Android Stuido: Network, Energy
+- JaCoCo: Test coverage analysis
+- Documentation: Doxygen
+
+### Testing Result
+![image](https://user-images.githubusercontent.com/63048392/125197793-04e6af00-e29a-11eb-975c-c796cdb63ab5.png)
+### Unit Test Example
+![image](https://user-images.githubusercontent.com/63048392/125197795-06b07280-e29a-11eb-88fd-603cf7e0361c.png)
+### 
+![image](https://user-images.githubusercontent.com/63048392/125197808-1f208d00-e29a-11eb-8cba-daa8ba6d732c.png)
+![image](https://user-images.githubusercontent.com/63048392/125197812-2182e700-e29a-11eb-97f3-a65031aa5098.png)
+![image](https://user-images.githubusercontent.com/63048392/125197817-234caa80-e29a-11eb-89f2-a25f7aea06fe.png)
+![image](https://user-images.githubusercontent.com/63048392/125197819-247dd780-e29a-11eb-954e-e68498fccd17.png)
+
+
 
 ## 시연영상 링크
 https://www.youtube.com/watch?v=-7l02o8ondU
