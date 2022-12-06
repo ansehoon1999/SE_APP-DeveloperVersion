@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/platform-android-brightgreen">
 
+<img src="https://user-images.githubusercontent.com/63048392/205853056-f6070ee3-dd54-458b-aaaf-1da52aa76e51.png" width="100" height="100">
+
 > 가천대학교 소프트웨어학과 3학년 1학기 소프트웨어 공학 프로젝트
 
 > 강아지 관리 품앗이 어플 🐶 테스팅
