@@ -25,6 +25,7 @@
 
 - 자세한 설명 
   - https://github.com/ansehoon1999/Android_Pet-Community/wiki
+  - https://docs.google.com/document/d/1JG4q7Z9MrPyQGUUfMLg0gHDQMYlwGH66/edit?usp=sharing&ouid=113299170397971879296&rtpof=true&sd=true
 
 ## 버전 및 사용 스택
 - Android (Java, Kotlin)
