@@ -57,6 +57,8 @@ https://www.youtube.com/watch?v=-7l02o8ondU
 - Documentation: Doxygen
 
 ## 스크린샷
+
+### 클라이언트 버전
 |매칭 리스트|채팅|OCR|
 |---------|--------|------|
 |<img src="https://user-images.githubusercontent.com/63048392/205850038-a416aaf0-43f0-4b58-bb99-53ece23c9e86.png" width="250" height="400">|<img src="https://user-images.githubusercontent.com/63048392/205850141-8fe2ad1a-88b9-4c74-ab51-6249d006f217.png" width="250" height="400">|<img src="https://user-images.githubusercontent.com/63048392/205850147-0471b71b-414d-4502-8445-a132543d9ae4.png" width="250" height="400">|
@@ -64,3 +66,11 @@ https://www.youtube.com/watch?v=-7l02o8ondU
 |산책 기능|정보 입력|메인 화면|
 |------|------|------|
 |<img src="https://user-images.githubusercontent.com/63048392/205850154-4b307db0-37e7-47ba-b578-01e2e6d3dfc5.png" width="250" height="400">>|<img src="https://user-images.githubusercontent.com/63048392/205850160-375c6583-d814-406a-a47a-806a345c7921.png" width="250" height="400">|<img src="https://user-images.githubusercontent.com/63048392/205850166-4ccb07ed-72da-4ecf-b1c1-0e8071c9c9e6.png" width="250" height="400">|
+
+### 개발자 버전
+|집사 정보 인증 페이지|매칭 상황 페이지|클라이언트 정보 인증 페이지|
+|---------|--------|------|
+|<img src="https://user-images.githubusercontent.com/63048392/206353282-b82ab154-938c-4248-aeb2-496526648d79.PNG" width="250" height="400">|<img src="https://user-images.githubusercontent.com/63048392/206353299-d1cd5c66-f16d-488e-ab47-437d8f8213bc.PNG" width="250" height="400">|<img src="https://user-images.githubusercontent.com/63048392/206353311-7ce39152-36f1-4b4b-a4a0-fdf8c94b6d74.PNG" width="250" height="400">|
+
+
+
